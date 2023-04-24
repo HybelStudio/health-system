@@ -1,0 +1,11 @@
+{
+    "name": "com.hybelstudio.health-system",
+    "displayName": "Health System",
+    "version": "1.0.0",
+    "description": "A modular and extendable health system which comes with a simple health system for tracking a single value and an advanced health system if you want to use several different health types.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Brage Ingebrigtsen",
+        "email": "hybelstudio@gmail.com"
+    }
+}
